@@ -1,7 +1,6 @@
 import React from "react";
 
 import Main from "./Main";
-import "./App.css";
 
 /**App will act as a table of contents for the developer */
 const App = () => {
